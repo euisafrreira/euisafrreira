@@ -1,12 +1,12 @@
-## Bem vindo ao meu perfil 👋
+## Bem vindo ao meu perfil🫀
 
 -Meu nome é Isabella Ferreira
 
--Estou cursando no Alura
+-Estou no 2 ano do ensino medio
 
--Estou me desenvolvendo na linguagem JavaScript
+-Tentando aprender sobre e como usar o javascript
 
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+-Espaço para o salvamento de projetos da plataforma de ensino [Alura](https://www.alura.com.br)
 
-## Para entra em contato comigo
+## Para contato:
 00001087609793sp@al.educacao.sp.gov.br
